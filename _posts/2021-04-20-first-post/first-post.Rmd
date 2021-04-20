@@ -1,0 +1,66 @@
+---
+title: "CFPB Analysis #1"
+description: |
+  A small sample of CFPB complaint data analysis.
+author:
+  - name: David DiMolfetta
+    url: https://muckrack.com/david-dimolfetta
+date: 04-20-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+
+
+We bring in the readr, tidyverse, and plotly packages as well as the complaints data from CFPB. 
+
+```{r}
+library(readr)
+library(tidyverse)
+library(plotly)
+
+df <- read.csv("https://files.consumerfinance.gov/ccdb/complaints.csv")
+```
+
+
+
+
+
+
+We build a function that counts complaints by product type.
+
+```{r}
+p.type1 <- function(comp.data) {
+  comp.data %>% 
+    count(Product)
+}
+```
+
+
+
+
+
+With this function we feed it into a plotly bar chart to produce the following visual:
+
+```{r}
+plot1 <- p.type1(df)
+
+plot_ly(data = plot1,
+             x = ~Product,
+             y = ~n,
+             type = "bar"
+) %>% 
+     layout(title = "Count of CFPB Complaints by Product Type",
+            xaxis = list(title = "Product Name"),
+            yaxis = list(title = "Count of Product Type")
+)
+```
+

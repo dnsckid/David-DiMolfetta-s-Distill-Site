@@ -1,0 +1,56 @@
+---
+title: "CFPB Analysis #2"
+description: |
+  A second example of CFPB complaint data analysis.
+author:
+  - name: David DiMolfetta
+    url: https://muckrack.com/david-dimolfetta
+date: 04-20-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r}
+library(readr)
+library(tidyverse)
+library(plotly)
+
+df <- read.csv("https://files.consumerfinance.gov/ccdb/complaints.csv")
+```
+
+
+In this example, we build a timeseries of how many complaints contained the phrase "covid-19". The first six rows of data containing the number of occurences of "covid-19" in each filing date is written out. Below that is the timeseries plot.
+
+
+```{r}
+p.type3 <- function(comp.data) {
+  comp.data %>%
+    filter(grepl('covid-19',Consumer.complaint.narrative)) %>%
+    count(Date.sent.to.company)
+}
+
+head(p.type3(df))
+
+
+plot3 <- p.type3(df)
+
+plot_ly(data = plot3,
+             x = ~Date.sent.to.company,
+             y = ~n,
+             type = "scatter", mode = "lines"
+              
+) %>% 
+     layout(title = "Complaints Containing Covid-19",
+            xaxis = list(title = "Dates"),
+            yaxis = list(title = "Count of Occurences")
+)
+
+```
+
+
