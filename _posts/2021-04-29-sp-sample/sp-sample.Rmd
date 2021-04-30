@@ -1,0 +1,33 @@
+---
+title: "S&P Global Market Intelligence Sample"
+description: |
+  Top oil and gas companies reclaim value in Q2 after pandemic-driven Q1 plunge
+author:
+  - name: David DiMolfetta
+    url: https://muckrack.com/david-dimolfetta
+date: 04-29-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Link to story: https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/top-oil-and-gas-companies-reclaim-value-in-q2-after-pandemic-driven-q1-plunge-59284830
+
+The market capitalization of the top 25 oil and gas companies in North America and developed Europe saw moderate rebounds in their second-quarter performances after a substantial dive in equity at the end of the first quarter amid the ongoing COVID-19 pandemic, according to data compiled by S&P Global Market Intelligence.
+
+U.S. leaders Exxon Mobil Corp. and Chevron Corp. saw their market capitalization recover by 17.7% and 23.1%, respectively. Still, the gains did not offset losses incurred in the first quarter, when Exxon's market cap dropped by 45.6% and Chevron's fell by 40.0%. Both companies spent the second quarter tightening their belts as Exxon said it plans to cut its U.S. workforce by up to 10% by the end of the year and with Chevron saying it could lay off up to 15% of its global workforce in the coming months.
+
+Many major oil companies, including BP PLC, announced in March almost $30 billion of combined spending cuts after failed negotiations of OPEC+ over oil production cuts sent West Texas Intermediate crude prices tumbling.
+
+Royal Dutch Shell PLC took the biggest hit, down 12.2% to $122.1 billion. Further down the list, Italy's Eni SpA and Canada's TC Energy Corp. were each down at least 7% in the second quarter.
+
+A handful of oil and gas leaders moved up in market cap rankings. Oil refining giant Marathon Petroleum Corp. shifted three spots higher from the first quarter to 18, while Phillips 66 moved to spot 13 from 15. Occidental Petroleum Corp. rounded out the top 25 after listing in 27th place last quarter, placing its market cap at nearly $16.5 billion, down from close to $38 billion at the same time in 2019.
+
+In June, several oil and gas producers filed for bankruptcy, including Chesapeake Energy Corp., Extraction Oil & Gas Inc., Lilis Energy Inc., Sable Permian Resources LLC and Chisholm Oil & Gas LLC. Moody's downgraded the global pipeline sector's outlook to negative from stable for the first time in part because U.S. drillers filing for Chapter 11 protection will more aggressively target their pipeline contracts than during the previous crisis. Companies across the industry have sought government assistance through programs developed to assist them through the downturn.
+
+The S&P 500 Energy index strongly outperformed the S&P 500 in the second quarter, with June 8 being the peak of the outperformance, hitting 59%.
+
+While oil companies expect a slow recovery for global oil demand, WTI prices have continued to climb since the end of March, recovering nearly 92% during the second quarter from $20.48 per barrel on March 31 to $39.27/bbl upon the June 30 closing.
+
+
+

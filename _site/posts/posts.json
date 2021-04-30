@@ -1,5 +1,107 @@
 [
   {
+    "path": "posts/2021-04-29-consumers-bulletin-sample-1-fomc-coverage/",
+    "title": "Consumers' Bulletin Sample #1 - FOMC Coverage",
+    "description": "Powell Reaffirms FOMC Policies on Economic Growth, Asset Tapering",
+    "author": [
+      {
+        "name": "David DiMolfetta",
+        "url": "https://muckrack.com/david-dimolfetta"
+      }
+    ],
+    "date": "2021-04-29",
+    "categories": [],
+    "contents": "\nLink to full story: https://consumersbulletin.org/powell-reaffirms-fomc-policies-on-economic-growth-asset-tapering/\nFederal Reserve Chairman Jerome Powell on April 14 reaffirmed the central bank’s commitment to ongoing monetary policies for bolstering the U.S. economy and added that the Federal Open Market Committee (FOMC) would taper bond purchases once certain economic criteria have been met.\nPowell was speaking at a virtual event with The Economic Club of Washington, DC.\n“We will taper asset purchases when we’ve made substantial further progress toward our goals, from last December when we announced that guidance,” Powell told interviewer David Rubenstein. “That would in all likelihood be before—well before—the time we consider raising interest rates.”\nAs of now, The FOMC continues to increase its holdings of U.S. Treasury securities by at least $80 billion and mortgage-backed securities by at least $40 billion. FOMC officials said in March meeting minutes that the purchases “were providing substantial support to the economy.” Such quantitative easing efforts have been in full throttle since last March when global coronavirus lockdowns began.\nThe Fed’s broad economic goals include inflation slightly above 2% as well as robust recovery in the labor markets. Powell reiterated that it’s unlikely that the Fed will raise interest rates this year and that most officials see rates remaining at near zero through 2023.\nHe also stressed the labor market recovery must be an “inclusive” effort, referring to labor data signaling American minorities being hit harder from the effects of the pandemic than others. He advised that continued social distancing and mask-wearing measures can aid in achieving sturdy recovery.\nThe Fed forecasts an economic expansion of 6.5% for this year and an unemployment rate declining to 4.5%.\nPowell previously told lawmakers the economy is a long way from employment and inflation goals, despite notable growth in areas of the economy such as home sales and retail sales.\nIn his March press conference, he said inflation needs to be “on track to exceed 2% moderately for some time” for the central bank to begin lifting interest rates again. The ambiguity has left market players wondering if the Fed may enact new policy sooner than planned amid an optimistic rise in several key areas of the economy, including labor market conditions.\nIn previous meetings and conferences, Powell did not say he was concerned over inflation conditions to reporters or lawmakers. In his Feb. 24 testimony to the House Financial Services Committee, he said that “inflation dynamics do change over time” but that they “don’t change on a dime.”\nING Economics analysts in a March 19 note said that “a more meaningful change in the Fed’s language” would manifest during the FOMC’s June meeting, predicting that a new view of economic forecasts will present itself as Covid recovery further advances.\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-04-29T23:26:48-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-04-29-data-analysis-samples/",
+    "title": "Data Analysis Samples",
+    "description": "Some samples from data analytics projects done in undergrad.",
+    "author": [
+      {
+        "name": "David DiMolfetta",
+        "url": "https://muckrack.com/david-dimolfetta"
+      }
+    ],
+    "date": "2021-04-29",
+    "categories": [],
+    "contents": "\nModeling Song Popularity With Spotify Data\nWith Spotify data, we use data mining/machine learning techniques to model the features of songs that make a song popular. Techniques include principal component analysis, neural networks, decision trees, latent semantic analysis, and exploratory methods using R and JMP Statistical Discovery.\nLink to project here: https://drive.google.com/file/d/1KGAtSqUOtrT3Ut2sji48rDV3lL3pWf7J/view\nMeasuring Sentiment of Stock Market Tweets\nWe created sentiment labels for business and stock market tweets and attempted to model the behavior of the stock market with specific terms and phrases used in each tweet. Demonstrates the use of LSA/SVD topic modeling, basic machine learning classifiers, Python TextBlob and SAS JMP Text Explorer features.\nLink to project here: https://drive.google.com/file/d/1vWrkg9W87uhK0tAlvyNeARt92JOZvlem/view\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-04-29T23:45:43-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-04-29-jpost-sample/",
+    "title": "JPost Sample",
+    "description": "UN ambassador cites Israeli company in proposal to ban spyware",
+    "author": [
+      {
+        "name": "David DiMolfetta",
+        "url": "https://muckrack.com/david-dimolfetta"
+      }
+    ],
+    "date": "2021-04-29",
+    "categories": [],
+    "contents": "\nLink to story: https://www.jpost.com/israel-news/citing-israeli-company-un-expert-urges-global-moratorium-on-sale-of-spyware-593001\nUnited Nations Special Rapporteur on freedom of expression David Kaye cited Herzliya-based NSO Group in his proposal to impose a moratorium on the use of surveillance technology, according to a report filed to the U.N. Human Rights Council on Tuesday.\nKaye’s report articulated NSO Group’s Pegasus spyware as a “paradigmatic example” of private surveillance products and their mobile device hacking capabilities.\nThe report cited previous research on the Pegasus technology infecting devices as well as it being used as a surveillance tool in multiple European and Middle Eastern countries. “The market is shrouded in secrecy; indeed, our knowledge of the problem exists mainly because of the digital-forensic work of non-governmental researchers and tenacious reporting by civil society organizations and the media,” the report said. Computer interference, social engineering, and facial recognition are among other forms of surveillance discussed in the report.\nAn NSO spokesperson said the technology is designed to help save lives and to pursue terrorists possessing encryption capabilities.\n“Licensed use of this technology helps prevent terrorist attacks, stop drug and sex trafficking rings, and rescue kidnapped children, but it is not a tool to be weaponized against human rights activists or political dissidents,” the spokesperson said in an email to The Jerusalem Post.\nNSO Group’s technology has previously found its way into headlines, where it was allegedly used by Saudis to track down and murder journalist Jamal Khashoggi of The Washington Post. NSO CEO Shalev Hulio denied in February that Khashoggi was targeted by NSO products and technology\nFormer Israel National Cyber Authority chief Buki Carmeli, who also consults for NSO, said that NSO routinely “gives technology to governments” to fight terrorist groups and drug cartels by hacking their communications. NSO’s future plans include serving militaries and foreign law enforcement authorities to the extent that those authorities have the capacity to use its products.\nSources close to the Post have said previously that NSO is capable of shutting down cyber systems being abused by clients in real time.\n“We fully believe all companies in this space have an obligation to ensure the ethical use of its technology,” the spokesperson said, “and we are bolstering our already rigorous vetting process to be in line with the UN Guiding Principles on Business and Human Rights and have consistently sought the input of the human rights and intelligence community to help protect innocent people’s right to life, liberty and security.”\nYonah Jeremy Bob and Tamar Beeri contributed to this report.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-04-29T23:33:23-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-04-29-skills/",
+    "title": "Skills",
+    "description": "List of relevant professional skills",
+    "author": [
+      {
+        "name": "David DiMolfetta",
+        "url": "https://muckrack.com/david-dimolfetta"
+      }
+    ],
+    "date": "2021-04-29",
+    "categories": [],
+    "contents": "\nAP Style News Writing\nAdobe Premiere Pro\nFinal Cut Pro\nR\nPython Pandas/NLTK\nStata\nJMP\nMS Excel\nHTML\nSQLite\nGoogle Analytics\nOptimization modeling\nMachine Learning techniques\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-04-29T23:59:50-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-04-29-sp-sample/",
+    "title": "S&P Global Market Intelligence Sample",
+    "description": "Top oil and gas companies reclaim value in Q2 after pandemic-driven Q1 plunge",
+    "author": [
+      {
+        "name": "David DiMolfetta",
+        "url": "https://muckrack.com/david-dimolfetta"
+      }
+    ],
+    "date": "2021-04-29",
+    "categories": [],
+    "contents": "\nLink to story: https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/top-oil-and-gas-companies-reclaim-value-in-q2-after-pandemic-driven-q1-plunge-59284830\nThe market capitalization of the top 25 oil and gas companies in North America and developed Europe saw moderate rebounds in their second-quarter performances after a substantial dive in equity at the end of the first quarter amid the ongoing COVID-19 pandemic, according to data compiled by S&P Global Market Intelligence.\nU.S. leaders Exxon Mobil Corp. and Chevron Corp. saw their market capitalization recover by 17.7% and 23.1%, respectively. Still, the gains did not offset losses incurred in the first quarter, when Exxon’s market cap dropped by 45.6% and Chevron’s fell by 40.0%. Both companies spent the second quarter tightening their belts as Exxon said it plans to cut its U.S. workforce by up to 10% by the end of the year and with Chevron saying it could lay off up to 15% of its global workforce in the coming months.\nMany major oil companies, including BP PLC, announced in March almost $30 billion of combined spending cuts after failed negotiations of OPEC+ over oil production cuts sent West Texas Intermediate crude prices tumbling.\nRoyal Dutch Shell PLC took the biggest hit, down 12.2% to $122.1 billion. Further down the list, Italy’s Eni SpA and Canada’s TC Energy Corp. were each down at least 7% in the second quarter.\nA handful of oil and gas leaders moved up in market cap rankings. Oil refining giant Marathon Petroleum Corp. shifted three spots higher from the first quarter to 18, while Phillips 66 moved to spot 13 from 15. Occidental Petroleum Corp. rounded out the top 25 after listing in 27th place last quarter, placing its market cap at nearly $16.5 billion, down from close to $38 billion at the same time in 2019.\nIn June, several oil and gas producers filed for bankruptcy, including Chesapeake Energy Corp., Extraction Oil & Gas Inc., Lilis Energy Inc., Sable Permian Resources LLC and Chisholm Oil & Gas LLC. Moody’s downgraded the global pipeline sector’s outlook to negative from stable for the first time in part because U.S. drillers filing for Chapter 11 protection will more aggressively target their pipeline contracts than during the previous crisis. Companies across the industry have sought government assistance through programs developed to assist them through the downturn.\nThe S&P 500 Energy index strongly outperformed the S&P 500 in the second quarter, with June 8 being the peak of the outperformance, hitting 59%.\nWhile oil companies expect a slow recovery for global oil demand, WTI prices have continued to climb since the end of March, recovering nearly 92% during the second quarter from $20.48 per barrel on March 31 to $39.27/bbl upon the June 30 closing.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-04-29T23:40:43-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-04-29-work-experience/",
+    "title": "Work Experience",
+    "description": "Rundown of major work/internship experiences throughout undergrad.",
+    "author": [
+      {
+        "name": "David DiMolfetta",
+        "url": "https://muckrack.com/david-dimolfetta"
+      }
+    ],
+    "date": "2021-04-29",
+    "categories": [],
+    "contents": "\nExperience:\nS&P GLOBAL MARKET INTELLIGENCE [REMOTE] Arlington, VA Editorial Intern - June 2020 − August 2020\n• Covered technology, media, telecommunications, and renewable energy for S&P Global’s Market Intelligence platform, carried nearly 80% of content produced by interns including data-driven pieces and regulatory proceedings\n• Investigated and reported on behavior of major cybersecurity and infotech ETFs, became one of the first stories in global business coverage that argued technology was an overvalued sector during the COVID-19 pandemic\n• Wrote weekly stock briefs on major TMT companies including Apple, AMC Entertainment, Snap, and Netflix to better inform subscribers in TMT space on the performance of their investments\n• Reported on Q2 earnings for major tech and gaming companies such as Spotify and Take-Two Interactive, led to improved coverage of companies’ performance and developments during COVID-19\nVOICE OF AMERICA Washington, DC Media Lab Intern - September 2019 − December 2019\n• Produced 30+ daily short films on Asia, Africa, World, and U.S. news using Adobe Premiere Pro, assisted in event coverage of major developments including the Trump impeachment inquiry and Hurricane Dorian\n• Utilized Reuters, AFP and other wire services to obtain A-roll footage for short films and parse it for relevance or restrictions before usage\n• Pitched stories for coverage to Media Lab and Language Services team, led to an increase in coverage of Middle East affairs and September 2019 Israeli election\nTHE JERUSALEM POST Jerusalem, Israel Summer Reporting Intern - June 2019 − August 2019\n• Contributed to business news coverage by reporting and writing nearly 30 stories pertaining to Israeli finance, technology, and start-ups, better informing local and international readership on Israel’s business activities\n• Worked at news desk, wrote SEO headlines, uploaded breaking news alerts and wrote stories while evaluating Google Analytics data to maximize page views, helped increase daily traffic by 30%\n• Assisted in reporting of special feature stories, including events concerning Israeli-Palestinian conflict and Ethiopian- Israeli struggles, brought greater awareness and perspective of these matters to readers\n• Edited print sections to ensure proper use of English language in a largely Hebrew-speaking environment\nLinkedIn: https://www.linkedin.com/in/daviddimolfetta\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-04-29T23:53:42-04:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2021-04-20-cfpb-analysis-2/",
     "title": "CFPB Analysis #2",
     "description": "A second example of CFPB complaint data analysis.",

@@ -1,0 +1,28 @@
+---
+title: "Data Analysis Samples"
+description: |
+  Some samples from data analytics projects done in undergrad.
+author:
+  - name: David DiMolfetta
+    url: https://muckrack.com/david-dimolfetta
+date: 04-29-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Modeling Song Popularity With Spotify Data
+
+With Spotify data, we use data mining/machine learning techniques to model the features of songs that make a song popular. Techniques include principal component analysis, neural networks, decision trees, latent semantic analysis, and exploratory methods using R and JMP Statistical Discovery.
+
+Link to project here: https://drive.google.com/file/d/1KGAtSqUOtrT3Ut2sji48rDV3lL3pWf7J/view
+
+---
+
+
+Measuring Sentiment of Stock Market Tweets
+
+We created sentiment labels for business and stock market tweets and attempted to model the behavior of the stock market with specific terms and phrases used in each tweet. Demonstrates the use of LSA/SVD topic modeling, basic machine learning classifiers, Python TextBlob and SAS JMP Text Explorer features.
+
+Link to project here: https://drive.google.com/file/d/1vWrkg9W87uhK0tAlvyNeARt92JOZvlem/view
+

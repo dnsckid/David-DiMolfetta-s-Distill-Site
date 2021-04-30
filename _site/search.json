@@ -3,17 +3,17 @@
     {
       "path": "about.html",
       "title": "About David",
-      "description": "David is a tech policy reporter with S&P Global Market Intelligence, a provider of multi-asset class and real-time data, research, news and analytics to institutional investors, investment and commercial banks, investment advisors and wealth managers, corporations, and universities. He holds a Bachlor's in business analytics and a minor in journalism from The George Washington University. In college, David published work with Consumers' Research and The Jerusalem Post. He likes working out, metal music, and some of his friends. ",
+      "description": "David is a tech policy reporter with S&P Global Market Intelligence, a provider of multi-asset class and real-time data, research, news and analytics to institutional investors, investment and commercial banks, investment advisors and wealth managers, corporations, and universities. He holds a Bachlor's in business analytics and a minor in journalism from The George Washington University. In college, David published work with Consumers' Research and The Jerusalem Post. He likes working out, metal music, and spending time with (some of) his friends. ",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-04-20T12:34:26-04:00"
+      "last_modified": "2021-04-30T00:06:24-04:00"
     },
     {
       "path": "index.html",
       "title": "David DiMolfetta",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-04-20T12:34:27-04:00"
+      "last_modified": "2021-04-30T00:06:25-04:00"
     }
   ],
   "collections": ["posts/posts.json"]

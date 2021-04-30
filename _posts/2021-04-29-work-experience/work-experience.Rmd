@@ -1,0 +1,60 @@
+---
+title: "Work Experience"
+description: |
+  Rundown of major work/internship experiences throughout undergrad.
+author:
+  - name: David DiMolfetta
+    url: https://muckrack.com/david-dimolfetta
+date: 04-29-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Experience:
+
+S&P GLOBAL MARKET INTELLIGENCE 
+[REMOTE] Arlington, VA
+Editorial Intern - June 2020 − August 2020
+
+• Covered technology, media, telecommunications, and renewable energy for S&P Global’s Market Intelligence
+platform, carried nearly 80% of content produced by interns including data-driven pieces and regulatory proceedings
+
+• Investigated and reported on behavior of major cybersecurity and infotech ETFs, became one of the first stories in global business coverage that argued technology was an overvalued sector during the COVID-19 pandemic
+
+• Wrote weekly stock briefs on major TMT companies including Apple, AMC Entertainment, Snap, and Netflix to better inform subscribers in TMT space on the performance of their investments
+
+• Reported on Q2 earnings for major tech and gaming companies such as Spotify and Take-Two Interactive, led to improved coverage of companies’ performance and developments during COVID-19
+
+---
+
+VOICE OF AMERICA 
+Washington, DC 
+Media Lab Intern - September 2019 − December 2019
+
+• Produced 30+ daily short films on Asia, Africa, World, and U.S. news using Adobe Premiere Pro, assisted in event
+coverage of major developments including the Trump impeachment inquiry and Hurricane Dorian
+
+• Utilized Reuters, AFP and other wire services to obtain A-roll footage for short films and parse it for relevance or restrictions before usage
+
+• Pitched stories for coverage to Media Lab and Language Services team, led to an increase in coverage of Middle East affairs and September 2019 Israeli election
+
+---
+
+THE JERUSALEM POST 
+Jerusalem, Israel
+Summer Reporting Intern - June 2019 − August 2019
+
+• Contributed to business news coverage by reporting and writing nearly 30 stories pertaining to Israeli finance,
+technology, and start-ups, better informing local and international readership on Israel’s business activities
+
+• Worked at news desk, wrote SEO headlines, uploaded breaking news alerts and wrote stories while evaluating Google Analytics data to maximize page views, helped increase daily traffic by 30%
+
+• Assisted in reporting of special feature stories, including events concerning Israeli-Palestinian conflict and Ethiopian- Israeli struggles, brought greater awareness and perspective of these matters to readers
+
+• Edited print sections to ensure proper use of English language in a largely Hebrew-speaking environment
+
+
+LinkedIn: https://www.linkedin.com/in/daviddimolfetta
+
+

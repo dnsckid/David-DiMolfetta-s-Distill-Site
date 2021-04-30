@@ -9,4 +9,23 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Experience"
+      href: work-experience.html
+    - text: "Skills"
+      href: skills.html
+    - text: "Work Samples"
+      menu:
+        - text: "CFPB Analysis #1"
+          href: first-post.html
+        - text: "CFPB Analysis #2"
+          href: cfpb-analysis-2.html
+        - text: "Consumers' Bulletin Sample"
+          href: consumers-bulletin-sample-1-fomc-coverage.html
+        - text: "Jerusalem Post Sample"
+          href: jpost-sample.html
+        - text: "S&P Global Sample"
+          href: sp-sample.html
+        - text: "Data Anaysis Samples"
+          href: data-analysis-sampples.html
+
 output: distill::distill_article

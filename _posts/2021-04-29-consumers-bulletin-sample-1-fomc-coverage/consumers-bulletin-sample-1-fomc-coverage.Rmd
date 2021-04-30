@@ -1,0 +1,38 @@
+---
+title: "Consumers' Bulletin Sample #1 - FOMC Coverage"
+description: |
+  Powell Reaffirms FOMC Policies on Economic Growth, Asset Tapering
+author:
+  - name: David DiMolfetta
+    url: https://muckrack.com/david-dimolfetta
+date: 04-29-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Link to story: https://consumersbulletin.org/powell-reaffirms-fomc-policies-on-economic-growth-asset-tapering/
+
+Federal Reserve Chairman Jerome Powell on April 14 reaffirmed the central bank’s commitment to ongoing monetary policies for bolstering the U.S. economy and added that the Federal Open Market Committee (FOMC) would taper bond purchases once certain economic criteria have been met.
+
+Powell was speaking at a virtual event with The Economic Club of Washington, DC.
+
+“We will taper asset purchases when we’ve made substantial further progress toward our goals, from last December when we announced that guidance,” Powell told interviewer David Rubenstein. “That would in all likelihood be before—well before—the time we consider raising interest rates.”
+
+As of now, The FOMC continues to increase its holdings of U.S. Treasury securities by at least $80 billion and mortgage-backed securities by at least $40 billion. FOMC officials said in March meeting minutes that the purchases “were providing substantial support to the economy.” Such quantitative easing efforts have been in full throttle since last March when global coronavirus lockdowns began.
+
+The Fed’s broad economic goals include inflation slightly above 2% as well as robust recovery in the labor markets. Powell reiterated that it’s unlikely that the Fed will raise interest rates this year and that most officials see rates remaining at near zero through 2023.
+
+He also stressed the labor market recovery must be an “inclusive” effort, referring to labor data signaling American minorities being hit harder from the effects of the pandemic than others. He advised that continued social distancing and mask-wearing measures can aid in achieving sturdy recovery.
+
+The Fed forecasts an economic expansion of 6.5% for this year and an unemployment rate declining to 4.5%.
+
+Powell previously told lawmakers the economy is a long way from employment and inflation goals, despite notable growth in areas of the economy such as home sales and retail sales.
+
+In his March press conference, he said inflation needs to be “on track to exceed 2% moderately for some time” for the central bank to begin lifting interest rates again. The ambiguity has left market players wondering if the Fed may enact new policy sooner than planned amid an optimistic rise in several key areas of the economy, including labor market conditions.
+
+In previous meetings and conferences, Powell did not say he was concerned over inflation conditions to reporters or lawmakers. In his Feb. 24 testimony to the House Financial Services Committee, he said that “inflation dynamics do change over time” but that they “don’t change on a dime.”
+
+ING Economics analysts in a March 19 note said that “a more meaningful change in the Fed’s language” would manifest during the FOMC’s June meeting, predicting that a new view of economic forecasts will present itself as Covid recovery further advances.
+
+

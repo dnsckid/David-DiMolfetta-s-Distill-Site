@@ -1,0 +1,40 @@
+---
+title: "Skills"
+description: |
+  List of relevant professional skills
+author:
+  - name: David DiMolfetta
+    url: https://muckrack.com/david-dimolfetta
+date: 04-29-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+AP Style News Writing
+
+Adobe Premiere Pro
+
+Final Cut Pro
+
+R
+
+Python Pandas/NLTK 
+
+Stata
+
+JMP
+
+MS Excel
+
+HTML
+
+SQLite
+
+Google Analytics
+
+Optimization modeling
+
+Machine Learning techniques
+
+

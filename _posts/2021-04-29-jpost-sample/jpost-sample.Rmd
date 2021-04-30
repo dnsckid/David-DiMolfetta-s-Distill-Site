@@ -1,0 +1,37 @@
+---
+title: "The Jerusalem Post Sample"
+description: |
+  UN ambassador cites Israeli company in proposal to ban spyware
+author:
+  - name: David DiMolfetta
+    url: https://muckrack.com/david-dimolfetta
+date: 04-29-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Link to story: https://www.jpost.com/israel-news/citing-israeli-company-un-expert-urges-global-moratorium-on-sale-of-spyware-593001
+
+United Nations Special Rapporteur on freedom of expression David Kaye cited Herzliya-based NSO Group in his proposal to impose a moratorium on the use of surveillance technology, according to a report filed to the U.N. Human Rights Council on Tuesday.
+
+Kaye’s report articulated NSO Group’s Pegasus spyware as a “paradigmatic example” of private surveillance products and their mobile device hacking capabilities.
+
+The report cited previous research on the Pegasus technology infecting devices as well as it being used as a surveillance tool in multiple European and Middle Eastern countries.
+“The market is shrouded in secrecy; indeed, our knowledge of the problem exists mainly because of the digital-forensic work of non-governmental researchers and tenacious reporting by civil society organizations and the media,” the report said. Computer interference, social engineering, and facial recognition are among other forms of surveillance discussed in the report.
+
+An NSO spokesperson said the technology is designed to help save lives and to pursue terrorists possessing encryption capabilities.
+
+“Licensed use of this technology helps prevent terrorist attacks, stop drug and sex trafficking rings, and rescue kidnapped children, but it is not a tool to be weaponized against human rights activists or political dissidents,” the spokesperson said in an email to The Jerusalem Post.
+
+NSO Group’s technology has previously found its way into headlines, where it was allegedly used by Saudis to track down and murder journalist Jamal Khashoggi of The Washington Post. NSO CEO Shalev Hulio denied in February that Khashoggi was targeted by NSO products and technology
+
+Former Israel National Cyber Authority chief Buki Carmeli, who also consults for NSO, said that NSO routinely “gives technology to governments” to fight terrorist groups and drug cartels by hacking their communications. NSO’s future plans include serving militaries and foreign law enforcement authorities to the extent that those authorities have the capacity to use its products.
+
+Sources close to the Post have said previously that NSO is capable of shutting down cyber systems being abused by clients in real time.
+
+“We fully believe all companies in this space have an obligation to ensure the ethical use of its technology,” the spokesperson said, “and we are bolstering our already rigorous vetting process to be in line with the UN Guiding Principles on Business and Human Rights and have consistently sought the input of the human rights and intelligence community to help protect innocent people’s right to life, liberty and security.”
+
+Yonah Jeremy Bob and Tamar Beeri contributed to this report.
+
+
